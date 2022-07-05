@@ -27,7 +27,7 @@ Code Challenge for Jr. iOS Developer Position
   
     
 -------
-#Detail Card
+# Detail Card
 * User needs to be able to see country flag on top of the page.
 * User needs to be able to see country code.
 * User should be navigated to wikidata with “wikiDataId” by clicking For More Information
