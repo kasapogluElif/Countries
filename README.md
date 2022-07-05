@@ -8,7 +8,9 @@ Code Challenge for Jr. iOS Developer Position
 --------
 # How to Use
 * Download the project.  
-* Add SVGKit using Swift Package Manager. 
+* Add SVGKit using Swift Package Manager.   
+1. File > Swift Packages > Reset Package Caches.  
+2. File > Swift Packages > Update to Latest Package Versions.  
 
 ------
 # Home Page
